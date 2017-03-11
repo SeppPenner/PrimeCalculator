@@ -19,6 +19,9 @@ public void Test()
 }
 ```
 
+## Screenshot from the executable:
+![Screenshot from the executable](https://github.com/SeppPenner/PrimeCalculator/blob/master/Screenshot.PNG "Screenshot from the executable")
+
 Change history
 --------------
 
