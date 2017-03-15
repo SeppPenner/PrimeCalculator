@@ -44,7 +44,7 @@ Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescrip
 Source: "C:\Users\tim\Desktop\PrimeCalculator\PrimeCalculator\bin\Debug\PrimeCalculator.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\tim\Desktop\PrimeCalculator\PrimeCalculator\bin\Debug\Languages.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\tim\Desktop\PrimeCalculator\PrimeCalculator\bin\Debug\License.txt"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\tim\Desktop\PrimeCalculator\PrimeCalculator\bin\Debug\languages\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\tim\Desktop\PrimeCalculator\PrimeCalculator\bin\Debug\languages\*"; DestDir: "{app}\languages\"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
