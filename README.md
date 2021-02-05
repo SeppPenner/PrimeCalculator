@@ -15,7 +15,7 @@ Both were written and tested in .Net 5.0.
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/PrimeCalculator/badge.svg)](https://snyk.io/test/github/SeppPenner/PrimeCalculator)
 
 
-## Basic usage:
+## Basic usage
 ```csharp
 public void Test()
 {
@@ -24,7 +24,7 @@ public void Test()
 }
 ```
 
-## Screenshot from the executable:
+## Screenshot from the executable
 ![Screenshot from the executable](https://github.com/SeppPenner/PrimeCalculator/blob/master/Screenshot.PNG "Screenshot from the executable")
 
 Change history
