@@ -5,8 +5,6 @@ PrimeCalculator is a software to to calculate prime numbers.
 
 PrimeCalcExample is a kind of 'library' to calculate prime numbers in C#.
 
-Both were written and tested in .Net 5.0.
-
 [![Build status](https://ci.appveyor.com/api/projects/status/f171s7bi5k9qwi5x?svg=true)](https://ci.appveyor.com/project/SeppPenner/primecalculator)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/PrimeCalculator.svg)](https://github.com/SeppPenner/PrimeCalculator/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/PrimeCalculator.svg)](https://github.com/SeppPenner/PrimeCalculator/network)
